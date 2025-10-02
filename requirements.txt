@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+qrcode[pil]
+opencv-python-headless
+pyzbar
+python-multipart
